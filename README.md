@@ -1,4 +1,4 @@
-### Olá, Eu me chamo Gabryel, Estudante da Universidade Ferederal Rural de Pernambuco (UFRPE), desenvolvedorBackend, com enfase em JAVA, estudando também o NodeJS e aplicações Mobile. 💻💬
+### Olá, Eu me chamo Gabryel, Estudante da Universidade Ferederal Rural de Pernambuco (UFRPE), desenvolvedor Backend, com enfase em JAVA, estudando também o NodeJS e aplicações Mobile. 💻💬
 <div align="center">
   <a href="https://github.com/LucasGabryellll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabryellll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
