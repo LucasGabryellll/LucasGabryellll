@@ -1,4 +1,4 @@
-### Olá, Eu me chamo Gabryel, Estudante da Universidade Ferederal Rural de Pernambuco (UFRPE), desenvolvedor Mobile, com enfase no React Native, estudando também o NodeJS e Desenvolvimento Web. 💻💬
+### Olá, Eu me chamo Gabryel, Estudante da Universidade Ferederal Rural de Pernambuco (UFRPE), desenvolvedor Mobile, com enfase no React Native, para Web com React JS e Next Js, e backend com Node e Python. 💻💬
 <div align="center">
   <a href="https://github.com/LucasGabryellll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabryellll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
